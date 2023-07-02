@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: devfile-sample-rlrk
     app.kubernetes.io/part-of: devfile-sample
-  name: devfile-sample-rlrk2jix
+  name: devfile-sample-rlrki5g7
 spec:
   path: /
   port:
